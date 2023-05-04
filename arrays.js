@@ -66,3 +66,4 @@ let primnum = [1,2,3];
 
 let number = evenum.concat(oddnum, primnum);
 console.log(number);
+console.log(primnum);
